@@ -1,0 +1,25 @@
+h1 {
+    color: #8c0707;
+    font-style: italic;
+
+}
+.LeaveMe {
+    font-size: 30px;
+    line-height: 200px;
+    text-align: center;
+    display: block;
+    margin-bottom: -100px;
+    margin-top:-50px;
+}
+p {
+    line-height: 30px;
+    color: #8c0707;
+    text-align: center;
+}
+h2 {
+    color: #8c0707;
+    text-align: center;
+    font-style: italic;
+    Margin-top: -5px;
+}
+
